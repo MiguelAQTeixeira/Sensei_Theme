@@ -1,0 +1,21 @@
+{
+    "name": "Sensei-D-Theme",
+    "displayName": "Sensei_Theme",
+    "description": "A colorful theme for those that enjoy cool color combos",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sensei_Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sensei_Theme-color-theme.json"
+            }
+        ]
+    }
+}
